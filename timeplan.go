@@ -137,13 +137,13 @@ func generateCSV(r io.Reader) error {
 		})
 
 		line := []string{
-			subject,
+			strings.Replace(subject, ",", ".", -1),
 			from.Format("2006-01-02"),
 			from.Format("15:04"),
 			to.Format("2006-01-02"),
 			to.Format("15:04"),
-			description,
-			location,
+			strings.Replace(description, ",", ".", -1),
+			strings.Replace(location, ",", ".", -1),
 		}
 
 		lines = append(lines, strings.Join(line, ","))
