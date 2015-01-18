@@ -23,7 +23,7 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 -KR-112/KR-111,2015-01-08,13:15,2015-01-08,17:00,Repstad Kari G. Håkonsen,CK 46 308 sem
 B/15/01/09 Temadag IKT PPU,2015-01-09,09:15,2015-01-09,12:00,,CK B2 003 aud
 B/15/01/09 Temadag IKT PPU,2015-01-09,12:15,2015-01-09,15:00,,CK F1 018 sem. CK F2 004 sem. CK D3 026
-B/15/01/09 Temadag IKT PPU,2015-01-09,12:15,2015-01-09,15:00,,CK F1 024 aud/gr
+B/15/01/09 Temadag IKT PPU,2015-01-09,12:15,2015-01-09,15:00,,CK F2 001 sem
 -IDR108/107 for,2015-02-23,09:15,2015-02-23,12:00,Øvrevik Geir,CK 48 002 sem
 -IDR107/108 for,2015-02-23,09:15,2015-02-23,12:00,Øvrevik Geir,CK 48 002 sem
 -NO-118/NO-119,2015-02-23,13:15,2015-02-23,17:00,Rambø Gro-Renee,CK 48 113 sem
@@ -69,8 +69,6 @@ B/15/01/09 Temadag IKT PPU,2015-01-09,12:15,2015-01-09,15:00,,CK F1 024 aud/gr
 -HI-108/109,2015-03-10,09:15,2015-03-10,13:00,Justvik Nils Martinius,CK 48 114 sem
 -HI-109/108,2015-03-10,09:15,2015-03-10,13:00,Justvik Nils Martinius,CK 48 114 sem
 -SV-109,2015-03-10,13:15,2015-03-10,17:00,Skjølberg Katja,CK B3 004 sem
--MA-113/MA-112,2015-03-11,13:15,2015-03-11,17:00,Madsen John,CK D3 054 sem
--MA-112/MA-113,2015-03-11,13:15,2015-03-11,17:00,Madsen John,CK D3 054 sem
 -PED116 heltid kl B,2015-03-12,09:15,2015-03-12,13:00,Witsø Hilde,CK F2 004 sem
 -PED116 heltid kl A,2015-03-12,09:15,2015-03-12,13:00,Garmanslund Per Einar,CK F1 018 sem
 -KR-111/KR-112,2015-03-12,13:15,2015-03-12,17:00,Repstad Kari G. Håkonsen,CK 46 308 sem
@@ -99,8 +97,9 @@ B/15/01/09 Temadag IKT PPU,2015-01-09,12:15,2015-01-09,15:00,,CK F1 024 aud/gr
 -PED116 heltid kl A,2015-03-19,09:15,2015-03-19,13:00,Garmanslund Per Einar,CK F1 018 sem
 -KR-111/KR-112,2015-03-19,13:15,2015-03-19,17:00,Repstad Kari G. Håkonsen,CK 46 308 sem
 -KR-112/KR-111,2015-03-19,13:15,2015-03-19,17:00,Repstad Kari G. Håkonsen,CK 46 308 sem
--PED116 heltid kl B,2015-03-20,09:15,2015-03-20,15:00,Witsø Hilde,CK F2 004 sem
--PED116 heltid kl A,2015-03-20,09:15,2015-03-20,15:00,Garmanslund Per Einar,CK F1 018 sem
+-PED116 heltid kl A+B uke 12,2015-03-20,09:15,2015-03-20,11:00,Garmanslund Per Einar. Witsø Hilde,CK B3 007 aud 
+-PED116 heltid kl A uke 12,2015-03-20,11:15,2015-03-20,15:00,Garmanslund Per Einar,CK F1 018 sem
+-PED116 heltid kl B uke 12,2015-03-20,11:15,2015-03-20,15:00,Witsø Hilde,CK F2 004 sem
 -IDR108/107 for,2015-03-23,09:15,2015-03-23,12:00,Øvrevik Geir,CK 48 002 sem
 -IDR107/108 for,2015-03-23,09:15,2015-03-23,12:00,Øvrevik Geir,CK 48 002 sem
 -EN-108/EN-109,2015-03-23,09:15,2015-03-23,13:00,Hangeland Hilde. Hannaas Inger Lise. Hasund Ingrid Kristine,CK 48 113 sem

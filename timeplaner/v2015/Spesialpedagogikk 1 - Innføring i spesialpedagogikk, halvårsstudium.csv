@@ -12,7 +12,7 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 -PED153 for,2015-01-22,09:15,2015-01-22,12:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED153 sem,2015-01-22,12:15,2015-01-22,15:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED154 for,2015-01-27,09:15,2015-01-27,12:00,Jortveit Maryann,CK F2 001 sem
--PED154 sem,2015-01-27,12:15,2015-01-27,15:00,Jortveit Maryann,CK F1 024 aud/gr
+-PED154 27.01,2015-01-27,12:15,2015-01-27,15:00,Jortveit Maryann,CK F2 001 sem
 -PED153 for,2015-01-29,09:15,2015-01-29,12:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED153 sem,2015-01-29,12:15,2015-01-29,15:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED154 for,2015-02-03,09:15,2015-02-03,12:00,Jortveit Maryann,CK F2 001 sem
@@ -28,7 +28,7 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 -PED153 for,2015-03-26,09:15,2015-03-26,12:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED153 sem,2015-03-26,12:15,2015-03-26,15:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED154 for,2015-04-07,09:15,2015-04-07,12:00,Jortveit Maryann,CK F2 001 sem
--PED154 sem,2015-04-07,12:15,2015-04-07,15:00,Jortveit Maryann,CK F1 024 aud/gr
+-PED154 for/prøve 07.04,2015-04-07,12:15,2015-04-07,15:00,Jortveit Maryann,CK F1 022 sem
 -PED153 for,2015-04-09,09:15,2015-04-09,12:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED153 sem,2015-04-09,12:15,2015-04-09,15:00,Tveit Anne Dorthe,CK F1 031 sem
 -PED154 for,2015-04-14,09:15,2015-04-14,12:00,Jortveit Maryann,CK F2 001 sem
