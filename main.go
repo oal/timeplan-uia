@@ -2,7 +2,6 @@ package main
 
 import (
 	"flag"
-	"fmt"
 
 	"github.com/oal/timeplan-uia/utils"
 )
@@ -18,11 +17,4 @@ func main() {
 	} else if *update {
 		utils.UpdateTimetables()
 	}
-
-	ical, err := utils.ToICal("timeplaner/v2015/Barnehagelærerutdanning, bachelor 1. år.csv")
-	if err != nil {
-		panic(err)
-	}
-
-	fmt.Println(ical)
 }
