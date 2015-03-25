@@ -80,5 +80,5 @@ func startServer() {
 		Get("/", (*Context).Index).
 		Get("/csv/:file", (*Context).CSV).
 		Get("/ical/:file", (*Context).ICal)
-	http.ListenAndServe("localhost:15103", router) // Start the server!
+	http.ListenAndServe("0.0.0.0:15103", router) // Start the server!
 }
