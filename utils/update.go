@@ -1,4 +1,4 @@
-package main
+package utils
 
 import (
 	"fmt"
@@ -26,7 +26,7 @@ type Department struct {
 
 var departments = []*Department{}
 
-func main() {
+func UpdateTimetables() {
 	os.MkdirAll(FOLDER, 0777)
 
 	jar, _ := cookiejar.New(nil)
