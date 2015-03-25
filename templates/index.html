@@ -5,25 +5,26 @@
 <div class="row">
 	<div class="col-md-4">
 		<h4>Hva er dette?</h4>
-		<p>Denne siden samler sammen timeplanene som er tilgjengelige via Universitetet i Agder sine nettsider, og gjør dem tilgjengelig i enklere og mer håndterbare formater. Du kan f.eks. abonnere direkte på timeplanen for din studieretning i kalenderapplikasjoner som Google Calendar o.l. ved bruk av adressen til iCal-filen for ditt studieprogram.</p>
+		<p>Denne siden samler sammen timeplanene fra <a href="http://timeplan.uia.no/swsuiah/public/no/default.aspx">Universitetet i Agder sine nettsider</a>, og gjør dem tilgjengelig i enklere og mer håndterbare formater. Du kan f.eks. abonnere direkte på timeplanen for din studieretning i kalenderapplikasjoner som Google Calendar o.l. ved bruk av adressen til iCal-filen for ditt studieprogram. Merk at timeplanene kun gjelder for ett semester, så du må hente ny kalenderfil ved semesterstart.</p>
 
-		<p><small><em>Denne tjenesten drives på frivillig basis, og kan når som helst bli lagt ned. Koden som driver siden er skrevet i <a href="http://golang.org/">Go</a>, og er tilgjengelig på <a href="https://github.com/oal/timeplan-uia">Github</a>. Ta gjerne kontakt på <a href="mailto:olav@lindekleiv.com">epost</a> eller <a href="https://twitter.com/oav">twitter</a> hvis du har spørsmål eller kommentarer til tjenesten.</em></small></p>
+		<hr>
+
+		<p><small><em>Denne tjenesten drives på frivillig basis, og det gis derfor ingen garantier rundt oppetid og tilgjengelighet. Koden som driver siden er skrevet i <a href="http://golang.org/">Go</a>, og er tilgjengelig på <a href="https://github.com/oal/timeplan-uia">Github</a>. Ta gjerne kontakt på <a href="mailto:olav@lindekleiv.com">epost</a> eller <a href="https://twitter.com/oav">twitter</a> hvis du har spørsmål eller kommentarer til tjenesten.</em></small></p>
 	</div>
 	<div class="col-md-8">
 		<table class="table">
 			<thead>
 				<tr>
 					<th style="width: 80%">Studieretning</th>
-					<th>&nbsp;</th>
-					<th>&nbsp;</th>
+					<th colspan="2"><input id="search" type="text" class="form-control" placeholder="S&oslash;k..."></th>
 				</tr>
 			</thead>
 			<tbody>
 				{% for timetable in timetables %}
-					<tr>
-						<td>{{ timetable }}</td>
-						<td><a href="/ical/{{ timetable }}.ical" class="btn btn-default btn-xs btn-block btn-default">iCal</a></td>
-						<td><a href="/csv/{{ timetable }}.csv" class="btn btn-default btn-xs btn-block btn-default">CSV</a></td>
+					<tr class="element">
+						<td class="element-name">{{ timetable }}</td>
+						<td><a rel="nofollow" href="/ical/v2015/{{ timetable }}.ics" class="btn btn-default btn-xs btn-block btn-default">iCal</a></td>
+						<td><a rel="nofollow" href="/csv/v2015/{{ timetable }}.csv" class="btn btn-default btn-xs btn-block btn-default">CSV</a></td>
 					</tr>
 				{% endfor %}
 			</tbody>
@@ -32,4 +33,22 @@
 	</div>
 </div>
 
+{% endblock %}
+
+{% block bottom %}
+<script>
+	$(function() {
+		var elements = $('.element-name');
+		$('#search').on('keyup', function() {
+			var search = $(this).val().toLowerCase();
+			elements.each(function() {
+				if($(this).text().toLowerCase().indexOf(search) != -1) {
+					$(this).parent().show();
+				} else {
+					$(this).parent().hide();
+				}
+			});
+		})
+	})
+</script>
 {% endblock %}

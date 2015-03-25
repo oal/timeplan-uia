@@ -21,6 +21,7 @@ var tplIndex = pongo2.Must(pongo2.FromFile("templates/index.html"))
 type Context struct{}
 
 func (c *Context) Index(w web.ResponseWriter, r *web.Request) {
+	w.Header().Set("Content-Type", "text/html; charset=utf-8")
 	err := tplIndex.ExecuteWriter(pongo2.Context{
 		"timetables": timetables,
 	}, w)
@@ -32,34 +33,38 @@ func (c *Context) Index(w web.ResponseWriter, r *web.Request) {
 
 func (c *Context) CSV(w web.ResponseWriter, r *web.Request) {
 	file := r.PathParams["file"]
-	lastSlash := strings.LastIndex(file, "/")
-	if lastSlash != -1 {
-		file = file[lastSlash:]
+	if len(file) < 5 || file[len(file)-4:] != ".csv" {
+		return
 	}
 
-	f, err := os.Open("timeplaner/v2015/" + file)
+	semester := r.PathParams["semester"]
+	f, err := os.Open(fmt.Sprintf("timeplaner/%s/%s", semester, file))
 	if err != nil {
 		return
 	}
 
 	defer f.Close()
+
+	w.Header().Set("Content-Type", "text/csv; charset=utf-8")
 	io.Copy(w, f)
 }
 
 func (c *Context) ICal(w web.ResponseWriter, r *web.Request) {
 	file := r.PathParams["file"]
-	lastSlash := strings.LastIndex(file, "/")
-	if lastSlash != -1 {
-		file = file[lastSlash:]
+	if len(file) < 5 || file[len(file)-4:] != ".ics" {
+		return
 	}
 
-	file = file[0 : len(file)-5]
+	file = file[0 : len(file)-4]
+	fmt.Println(file)
 
-	data, err := utils.ToICal(fmt.Sprintf("timeplaner/v2015/%v.csv", file))
+	semester := r.PathParams["semester"]
+	data, err := utils.ToICal(fmt.Sprintf("timeplaner/%v/%v.csv", semester, file))
 	if err != nil {
 		return
 	}
 
+	w.Header().Set("Content-Type", "text/calendar; charset=utf-8")
 	w.Write([]byte(data))
 }
 
@@ -78,7 +83,7 @@ func startServer() {
 	router := web.New(Context{}).
 		Middleware(web.LoggerMiddleware).
 		Get("/", (*Context).Index).
-		Get("/csv/:file", (*Context).CSV).
-		Get("/ical/:file", (*Context).ICal)
+		Get("/csv/:semester/:file", (*Context).CSV).
+		Get("/ical/:semester/:file", (*Context).ICal)
 	http.ListenAndServe("0.0.0.0:15103", router) // Start the server!
 }
