@@ -1,51 +1,51 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
--KR-104 for (sammen med FIL102),2015-01-07,10:15,2015-01-07,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-01-08,09:15,2015-01-08,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-01-08,10:15,2015-01-08,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-01-08,14:15,2015-01-08,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-01-14,10:15,2015-01-14,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-01-15,09:15,2015-01-15,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-01-15,10:15,2015-01-15,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-01-15,14:15,2015-01-15,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-01-21,10:15,2015-01-21,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-01-22,09:15,2015-01-22,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-01-22,14:15,2015-01-22,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-01-28,10:15,2015-01-28,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-01-29,09:15,2015-01-29,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-01-29,10:15,2015-01-29,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-01-29,14:15,2015-01-29,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-02-04,10:15,2015-02-04,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-02-05,09:15,2015-02-05,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-02-05,10:15,2015-02-05,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-02-05,14:15,2015-02-05,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--REL102 sem/gr uke 7.8,2015-02-12,09:15,2015-02-12,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--REL102 sem/gr uke 7.8,2015-02-19,09:15,2015-02-19,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--KR-104 for (sammen med FIL102),2015-02-25,10:15,2015-02-25,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-02-26,09:15,2015-02-26,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-02-26,10:15,2015-02-26,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-02-26,14:15,2015-02-26,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-03-04,10:15,2015-03-04,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-03-05,09:15,2015-03-05,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-03-05,10:15,2015-03-05,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-03-05,14:15,2015-03-05,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--REL102,2015-03-12,09:15,2015-03-12,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-03-12,10:15,2015-03-12,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-03-12,14:15,2015-03-12,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-03-18,10:15,2015-03-18,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-03-19,09:15,2015-03-19,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-03-19,10:15,2015-03-19,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-03-19,14:15,2015-03-19,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-03-25,10:15,2015-03-25,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-03-26,09:15,2015-03-26,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--HI-116 for,2015-03-26,10:15,2015-03-26,12:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--HI-116 for,2015-03-26,14:15,2015-03-26,16:00,Abrahamsen Olav Arild. Leer-Salvesen Paul. Mustad Jan Erik. Aase Andreas,CK 46 118 aula
--KR-104 for (sammen med FIL102),2015-04-08,10:15,2015-04-08,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-04-09,09:15,2015-04-09,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--KR-104 for (sammen med FIL102),2015-04-15,10:15,2015-04-15,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-04-16,09:15,2015-04-16,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--KR-104 for (sammen med FIL102),2015-04-22,10:15,2015-04-22,12:00,Lysaker Odin. Løkke Håvard,CK 46 118 aula
--REL102,2015-04-23,09:15,2015-04-23,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--KR-104 uke 18 tirs,2015-04-28,10:15,2015-04-28,12:00,Lysaker Odin,CK B3 001 aud
--KR-104 uke 18 ons,2015-04-29,10:15,2015-04-29,12:00,Lysaker Odin,CK B1 007 aud
--REL102,2015-04-30,09:15,2015-04-30,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
--REL102,2015-05-07,09:15,2015-05-07,12:00,Haakedal Elisabet. Ulland Dagfinn,CK B2 002 aud
+"-KR-104 for (sammen med FIL102)",2015-01-07,10:15,2015-01-07,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-01-08,09:15,2015-01-08,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-01-08,10:15,2015-01-08,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-01-08,14:15,2015-01-08,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-01-14,10:15,2015-01-14,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-01-15,09:15,2015-01-15,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-01-15,10:15,2015-01-15,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-01-15,14:15,2015-01-15,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-01-21,10:15,2015-01-21,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-01-22,09:15,2015-01-22,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-01-22,14:15,2015-01-22,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-01-28,10:15,2015-01-28,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-01-29,09:15,2015-01-29,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-01-29,10:15,2015-01-29,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-01-29,14:15,2015-01-29,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-02-04,10:15,2015-02-04,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-02-05,09:15,2015-02-05,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-02-05,10:15,2015-02-05,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-02-05,14:15,2015-02-05,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-REL102 sem/gr uke 7.8",2015-02-12,09:15,2015-02-12,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-REL102 sem/gr uke 7.8",2015-02-19,09:15,2015-02-19,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-KR-104 for (sammen med FIL102)",2015-02-25,10:15,2015-02-25,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-02-26,09:15,2015-02-26,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-02-26,10:15,2015-02-26,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-02-26,14:15,2015-02-26,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-03-04,10:15,2015-03-04,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-03-05,09:15,2015-03-05,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-03-05,10:15,2015-03-05,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-03-05,14:15,2015-03-05,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-REL102",2015-03-12,09:15,2015-03-12,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-03-12,10:15,2015-03-12,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-03-12,14:15,2015-03-12,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-03-18,10:15,2015-03-18,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-03-19,09:15,2015-03-19,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-03-19,10:15,2015-03-19,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-03-19,14:15,2015-03-19,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-03-25,10:15,2015-03-25,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-03-26,09:15,2015-03-26,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-HI-116 for",2015-03-26,10:15,2015-03-26,12:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-HI-116 for",2015-03-26,14:15,2015-03-26,16:00,"Abrahamsen Olav Arild, Leer-Salvesen Paul, Mustad Jan Erik, Aase Andreas","CK 46 118 aula"
+"-KR-104 for (sammen med FIL102)",2015-04-08,10:15,2015-04-08,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-04-09,09:15,2015-04-09,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-KR-104 for (sammen med FIL102)",2015-04-15,10:15,2015-04-15,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-04-16,09:15,2015-04-16,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-KR-104 for (sammen med FIL102)",2015-04-22,10:15,2015-04-22,12:00,"Lysaker Odin, Løkke Håvard","CK 46 118 aula"
+"-REL102",2015-04-23,09:15,2015-04-23,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-KR-104 uke 18 tirs",2015-04-28,10:15,2015-04-28,12:00,"Lysaker Odin","CK B3 001 aud"
+"-KR-104 uke 18 ons",2015-04-29,10:15,2015-04-29,12:00,"Lysaker Odin","CK B1 007 aud"
+"-REL102",2015-04-30,09:15,2015-04-30,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"
+"-REL102",2015-05-07,09:15,2015-05-07,12:00,"Haakedal Elisabet, Ulland Dagfinn","CK B2 002 aud"

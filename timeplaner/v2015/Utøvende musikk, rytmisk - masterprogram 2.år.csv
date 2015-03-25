@@ -1,17 +1,17 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
-MUR400 ons,2015-01-07,09:15,2015-01-07,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-01-07,12:15,2015-01-07,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-01-21,09:15,2015-01-21,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-01-21,12:15,2015-01-21,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-02-04,09:15,2015-02-04,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-02-04,12:15,2015-02-04,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-02-18,09:15,2015-02-18,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-02-18,12:15,2015-02-18,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-03-11,09:15,2015-03-11,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-03-11,12:15,2015-03-11,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-03-25,09:15,2015-03-25,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-03-25,12:15,2015-03-25,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-04-08,09:15,2015-04-08,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-04-08,12:15,2015-04-08,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
-MUR400 ons,2015-04-15,09:15,2015-04-15,12:00,Nypan Øyvind. Rasch Bjørn Ole,CK K1 039/Samspillsal 2
-MUR500 ons,2015-04-15,12:15,2015-04-15,14:00,Drabløs Per Elias. Tønsberg Knut,CK K1 037/Samspillsal 3
+"MUR400 ons",2015-01-07,09:15,2015-01-07,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-01-07,12:15,2015-01-07,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"
+"MUR400 ons",2015-01-21,09:15,2015-01-21,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-01-21,12:15,2015-01-21,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"
+"Booking/15/02/04 MUR400",2015-02-04,09:15,2015-02-04,11:00,"","CK K1 039/Samspillsal 2"
+"Booking/15/02/04 MUR500",2015-02-04,12:15,2015-02-04,14:00,"","CK G1 018"
+"MUR400 ons",2015-02-18,09:15,2015-02-18,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-02-18,12:15,2015-02-18,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"
+"MUR400 ons",2015-03-11,09:15,2015-03-11,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-03-11,12:15,2015-03-11,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"
+"MUR400 ons",2015-03-25,09:15,2015-03-25,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-03-25,12:15,2015-03-25,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"
+"MUR400 ons",2015-04-08,09:15,2015-04-08,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-04-08,12:15,2015-04-08,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"
+"MUR400 ons",2015-04-15,09:15,2015-04-15,12:00,"Nypan Øyvind, Rasch Bjørn Ole","CK K1 039/Samspillsal 2"
+"MUR500 ons",2015-04-15,12:15,2015-04-15,14:00,"Drabløs Per Elias, Tønsberg Knut","CK K1 037/Samspillsal 3"

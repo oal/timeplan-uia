@@ -1,84 +1,83 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
--SRE100 for,2015-01-05,11:15,2015-01-05,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-05,14:15,2015-01-05,16:00,,CK F1 018 sem
--SRE100 for,2015-01-06,08:15,2015-01-06,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-06,12:15,2015-01-06,14:00,,CK F1 018 sem
--NHB100 for,2015-01-08,08:15,2015-01-08,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 for,2015-01-12,11:15,2015-01-12,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-12,14:15,2015-01-12,16:00,,CK F1 018 sem
--SRE100 for,2015-01-13,08:15,2015-01-13,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-13,12:15,2015-01-13,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem,2015-01-14,10:15,2015-01-14,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-01-14,10:15,2015-01-14,12:00,,CK F1 018 sem
--NHB100 for,2015-01-15,08:15,2015-01-15,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--NHB100 lab,2015-01-15,08:15,2015-01-15,16:00,Grundetjern Svein. Stokke May Britt Jansson,CK J1 004 bio
--NHB100 lab,2015-01-16,08:15,2015-01-16,16:00,Grundetjern Svein. Stokke May Britt Jansson,CK J1 004 bio
--SRE100 for,2015-01-19,11:15,2015-01-19,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-19,14:15,2015-01-19,16:00,,CK F1 018 sem
--SRE100 for,2015-01-20,08:15,2015-01-20,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-20,12:15,2015-01-20,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem,2015-01-21,10:15,2015-01-21,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-01-21,10:15,2015-01-21,12:00,,CK F1 018 sem
--NHB100 for,2015-01-22,08:15,2015-01-22,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--NHB100 lab,2015-01-22,08:15,2015-01-22,16:00,Grundetjern Svein. Stokke May Britt Jansson,CK J1 004 bio
--NHB100 lab,2015-01-23,08:15,2015-01-23,16:00,Grundetjern Svein. Stokke May Britt Jansson,CK J1 004 bio
--SRE100 for,2015-01-26,11:15,2015-01-26,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-26,14:15,2015-01-26,16:00,,CK F1 018 sem
--SRE100 for,2015-01-27,08:15,2015-01-27,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-01-27,12:15,2015-01-27,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem,2015-01-28,10:15,2015-01-28,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-01-28,10:15,2015-01-28,12:00,,CK F1 018 sem
--NHB100 for,2015-01-29,08:15,2015-01-29,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 for,2015-02-02,11:15,2015-02-02,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-02-02,14:15,2015-02-02,16:00,,CK F1 018 sem
--SRE100 uke 6 Trygg Trafikk,2015-02-03,09:15,2015-02-03,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 uke 6 Trygg Trafikk,2015-02-03,12:15,2015-02-03,15:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B2 003 aud
--NHB100/SRE100 B sem,2015-02-04,10:15,2015-02-04,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-02-04,10:15,2015-02-04,12:00,,CK F1 018 sem
--NHB100 for,2015-02-05,08:15,2015-02-05,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 sem B gruppeframlegg 09.02,2015-02-09,13:15,2015-02-09,16:00,,CK F1 022 sem
--NHB100 for,2015-02-12,08:15,2015-02-12,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 for,2015-02-16,11:15,2015-02-16,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-02-16,14:15,2015-02-16,16:00,,CK F1 018 sem
--SRE100 for,2015-02-17,08:15,2015-02-17,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-02-17,12:15,2015-02-17,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem,2015-02-18,10:15,2015-02-18,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-02-18,10:15,2015-02-18,12:00,,CK F1 018 sem
--NHB100 for,2015-02-19,08:15,2015-02-19,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 for fre 20.02,2015-02-20,09:15,2015-02-20,12:00,Hidle Kari-Mette Wahlmann,CK B1 006 aud
--SRE100 for,2015-02-23,11:15,2015-02-23,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-02-23,14:15,2015-02-23,16:00,,CK F1 018 sem
--SRE100 for,2015-02-24,08:15,2015-02-24,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-02-24,12:15,2015-02-24,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem uke 9,2015-02-25,11:15,2015-02-25,14:00,,CK H1 022 sem
--SRE100/NHB100 B sem uke 9,2015-02-25,11:15,2015-02-25,14:00,,CK H1 022 sem
--NHB100 for,2015-02-26,08:15,2015-02-26,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 for,2015-04-07,08:15,2015-04-07,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-07,12:15,2015-04-07,14:00,,CK F1 018 sem
--SRE100 for,2015-04-13,11:15,2015-04-13,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-13,14:15,2015-04-13,16:00,,CK F1 018 sem
--SRE100 for,2015-04-14,08:15,2015-04-14,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-14,12:15,2015-04-14,14:00,,CK F1 018 sem
--SRE100 for,2015-04-20,11:15,2015-04-20,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-20,14:15,2015-04-20,16:00,,CK F1 018 sem
--SRE100 for,2015-04-21,08:15,2015-04-21,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-21,12:15,2015-04-21,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem uke17,2015-04-22,08:15,2015-04-22,11:00,,CK H1 022 sem
--SRE100/NHB100 B sem uke 17,2015-04-22,08:15,2015-04-22,11:00,,CK H1 022 sem
--SRE100 for 22.04,2015-04-22,12:15,2015-04-22,14:00,,CK B2 003 aud
--NHB100 for,2015-04-23,08:15,2015-04-23,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--NHB100 lab,2015-04-23,08:15,2015-04-23,16:00,Grundetjern Svein. Stokke May Britt Jansson,CK J1 004 bio
--NHB100 lab,2015-04-24,08:15,2015-04-24,16:00,Grundetjern Svein. Stokke May Britt Jansson,CK J1 004 bio
--SRE100 for,2015-04-27,11:15,2015-04-27,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-27,14:15,2015-04-27,16:00,,CK F1 018 sem
--SRE100 for,2015-04-28,08:15,2015-04-28,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-04-28,12:15,2015-04-28,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem,2015-04-29,10:15,2015-04-29,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-04-29,10:15,2015-04-29,12:00,,CK F1 018 sem
--NHB100 for,2015-04-30,08:15,2015-04-30,11:00,Grundetjern Svein. Stokke May Britt Jansson,CK B1 006 aud
--SRE100 for,2015-05-04,11:15,2015-05-04,13:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-05-04,14:15,2015-05-04,16:00,,CK F1 018 sem
--SRE100 for,2015-05-05,08:15,2015-05-05,12:00,Halltorp Peter. Hidle Kari-Mette Wahlmann. Hodne Hans. Hägg Henny Solfrid F.,CK B1 006 aud
--SRE100 sem B,2015-05-05,12:15,2015-05-05,14:00,,CK F1 018 sem
--NHB100/SRE100 B sem,2015-05-06,10:15,2015-05-06,12:00,,CK F1 018 sem
--SRE100/NHB100 B sem,2015-05-06,10:15,2015-05-06,12:00,,CK F1 018 sem
+"-SRE100 for",2015-01-05,11:15,2015-01-05,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-05,14:15,2015-01-05,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-01-06,08:15,2015-01-06,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-06,12:15,2015-01-06,14:00,"","CK F1 018 sem"
+"-NHB100 for",2015-01-08,08:15,2015-01-08,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 for",2015-01-12,11:15,2015-01-12,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-12,14:15,2015-01-12,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-01-13,08:15,2015-01-13,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-13,12:15,2015-01-13,14:00,"","CK F1 018 sem"
+"-NHB100/SRE100 B sem",2015-01-14,10:15,2015-01-14,12:00,"","CK F1 018 sem"
+"-SRE100/NHB100 B sem",2015-01-14,10:15,2015-01-14,12:00,"","CK F1 018 sem"
+"-NHB100 for",2015-01-15,08:15,2015-01-15,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-NHB100 lab",2015-01-15,08:15,2015-01-15,16:00,"Grundetjern Svein, Stokke May Britt Jansson","CK J1 004 bio"
+"-NHB100 lab",2015-01-16,08:15,2015-01-16,16:00,"Grundetjern Svein, Stokke May Britt Jansson","CK J1 004 bio"
+"-SRE100 for",2015-01-19,11:15,2015-01-19,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-19,14:15,2015-01-19,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-01-20,08:15,2015-01-20,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-20,12:15,2015-01-20,14:00,"","CK F1 018 sem"
+"-NHB100/SRE100 B sem",2015-01-21,10:15,2015-01-21,12:00,"","CK F1 018 sem"
+"-SRE100/NHB100 B sem",2015-01-21,10:15,2015-01-21,12:00,"","CK F1 018 sem"
+"-NHB100 for",2015-01-22,08:15,2015-01-22,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-NHB100 lab",2015-01-22,08:15,2015-01-22,16:00,"Grundetjern Svein, Stokke May Britt Jansson","CK J1 004 bio"
+"-NHB100 lab",2015-01-23,08:15,2015-01-23,16:00,"Grundetjern Svein, Stokke May Britt Jansson","CK J1 004 bio"
+"-SRE100 for",2015-01-26,11:15,2015-01-26,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-26,14:15,2015-01-26,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-01-27,08:15,2015-01-27,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-01-27,12:15,2015-01-27,14:00,"","CK F1 018 sem"
+"-NHB100/SRE100 B sem",2015-01-28,10:15,2015-01-28,12:00,"","CK F1 018 sem"
+"-SRE100/NHB100 B sem",2015-01-28,10:15,2015-01-28,12:00,"","CK F1 018 sem"
+"-NHB100 for",2015-01-29,08:15,2015-01-29,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 for",2015-02-02,11:15,2015-02-02,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-02-02,14:15,2015-02-02,16:00,"","CK F1 018 sem"
+"-SRE100 uke 6 Trygg Trafikk",2015-02-03,09:15,2015-02-03,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 uke 6 Trygg Trafikk",2015-02-03,12:15,2015-02-03,15:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B2 003 aud"
+"-NHB100/SRE100 B sem",2015-02-04,10:15,2015-02-04,12:00,"","CK F1 018 sem"
+"-SRE100/NHB100 B sem",2015-02-04,10:15,2015-02-04,12:00,"","CK F1 018 sem"
+"-NHB100 for",2015-02-05,08:15,2015-02-05,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 sem B gruppeframlegg 09.02",2015-02-09,13:15,2015-02-09,16:00,"","CK F1 022 sem"
+"-NHB100 for",2015-02-12,08:15,2015-02-12,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 for",2015-02-16,11:15,2015-02-16,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-02-16,14:15,2015-02-16,16:00,"","CK F1 018 sem"
+"-SRE100 sem B",2015-02-17,12:15,2015-02-17,14:00,"","CK F1 018 sem"
+"-SRE100 for 17.02",2015-02-17,12:15,2015-02-17,16:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-NHB100/SRE100 sem 18.02",2015-02-18,12:15,2015-02-18,14:00,"","CK D3 054 sem, CK 48 115 sem, CK 48 108 sem, CK 48 106 sem"
+"-SRE100/NHB100 sem 18.02",2015-02-18,12:15,2015-02-18,14:00,"","CK D3 054 sem, CK 48 115 sem, CK 48 108 sem, CK 48 106 sem"
+"-NHB100 for",2015-02-19,08:15,2015-02-19,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 for fre 20.02",2015-02-20,09:15,2015-02-20,12:00,"Hidle Kari-Mette Wahlmann","CK B1 006 aud"
+"-SRE100 for",2015-02-23,11:15,2015-02-23,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-02-23,14:15,2015-02-23,16:00,"","CK F1 018 sem"
+"-SRE100 for 24.02",2015-02-24,11:15,2015-02-24,14:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-NHB100/SRE100 B sem uke 9",2015-02-25,11:15,2015-02-25,14:00,"","CK H1 022 sem"
+"-SRE100/NHB100 B sem uke 9",2015-02-25,11:15,2015-02-25,14:00,"","CK H1 022 sem"
+"-NHB100 for",2015-02-26,08:15,2015-02-26,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 for",2015-04-07,08:15,2015-04-07,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-07,12:15,2015-04-07,14:00,"","CK F1 018 sem"
+"-SRE100 for",2015-04-13,11:15,2015-04-13,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-13,14:15,2015-04-13,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-04-14,08:15,2015-04-14,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-14,12:15,2015-04-14,14:00,"","CK F1 018 sem"
+"-SRE100 for",2015-04-20,11:15,2015-04-20,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-20,14:15,2015-04-20,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-04-21,08:15,2015-04-21,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-21,12:15,2015-04-21,14:00,"","CK F1 018 sem"
+"-NHB100/SRE100 B sem uke17",2015-04-22,08:15,2015-04-22,11:00,"","CK H1 022 sem"
+"-SRE100/NHB100 B sem uke 17",2015-04-22,08:15,2015-04-22,11:00,"","CK H1 022 sem"
+"-SRE100 for 22.04",2015-04-22,12:15,2015-04-22,14:00,"","CK B2 003 aud"
+"-NHB100 for",2015-04-23,08:15,2015-04-23,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-NHB100 lab",2015-04-23,08:15,2015-04-23,16:00,"Grundetjern Svein, Stokke May Britt Jansson","CK J1 004 bio"
+"-NHB100 lab",2015-04-24,08:15,2015-04-24,16:00,"Grundetjern Svein, Stokke May Britt Jansson","CK J1 004 bio"
+"-SRE100 for",2015-04-27,11:15,2015-04-27,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-27,14:15,2015-04-27,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-04-28,08:15,2015-04-28,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-04-28,12:15,2015-04-28,14:00,"","CK F1 018 sem"
+"-NHB100/SRE100 B sem",2015-04-29,10:15,2015-04-29,12:00,"","CK F1 018 sem"
+"-SRE100/NHB100 B sem",2015-04-29,10:15,2015-04-29,12:00,"","CK F1 018 sem"
+"-NHB100 for",2015-04-30,08:15,2015-04-30,11:00,"Grundetjern Svein, Stokke May Britt Jansson","CK B1 006 aud"
+"-SRE100 for",2015-05-04,11:15,2015-05-04,13:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-05-04,14:15,2015-05-04,16:00,"","CK F1 018 sem"
+"-SRE100 for",2015-05-05,08:15,2015-05-05,12:00,"Halltorp Peter, Hidle Kari-Mette Wahlmann, Hodne Hans, Hägg Henny Solfrid F.","CK B1 006 aud"
+"-SRE100 sem B",2015-05-05,12:15,2015-05-05,14:00,"","CK F1 018 sem"
+"-NHB100/SRE100 B sem",2015-05-06,10:15,2015-05-06,12:00,"","CK F1 018 sem"
+"-SRE100/NHB100 B sem",2015-05-06,10:15,2015-05-06,12:00,"","CK F1 018 sem"

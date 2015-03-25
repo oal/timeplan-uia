@@ -1,81 +1,91 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
--NO-126,2015-01-05,13:15,2015-01-05,15:00,Askland Sigrunn,CK 48 106 sem
--EN-127,2015-01-12,10:15,2015-01-12,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-01-12,13:15,2015-01-12,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-01-14,10:15,2015-01-14,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-01-15,11:15,2015-01-15,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-01-16,09:15,2015-01-16,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-01-16,12:15,2015-01-16,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-01-19,10:15,2015-01-19,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-01-19,13:15,2015-01-19,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-01-21,10:15,2015-01-21,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-01-22,11:15,2015-01-22,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-01-23,09:15,2015-01-23,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-01-23,12:15,2015-01-23,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-01-26,10:15,2015-01-26,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-01-26,13:15,2015-01-26,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-01-28,10:15,2015-01-28,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-01-29,11:15,2015-01-29,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-01-30,09:15,2015-01-30,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-01-30,12:15,2015-01-30,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-02-02,10:15,2015-02-02,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-02-02,13:15,2015-02-02,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-02-04,10:15,2015-02-04,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-02-05,11:15,2015-02-05,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-02-06,09:15,2015-02-06,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-02-06,12:15,2015-02-06,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-02-09,10:15,2015-02-09,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-02-09,13:15,2015-02-09,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-02-11,10:15,2015-02-11,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-02-12,11:15,2015-02-12,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-02-13,09:15,2015-02-13,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-02-13,12:15,2015-02-13,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-02-16,10:15,2015-02-16,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-02-16,13:15,2015-02-16,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-02-18,10:15,2015-02-18,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-02-19,11:15,2015-02-19,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-02-20,09:15,2015-02-20,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-02-20,12:15,2015-02-20,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-02-23,10:15,2015-02-23,12:00,Erdmann Susan,CK F1 023 sem
--OF-106,2015-02-25,10:15,2015-02-25,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-02-26,11:15,2015-02-26,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-02-27,09:15,2015-02-27,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-02-27,12:15,2015-02-27,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-03-02,10:15,2015-03-02,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-03-02,13:15,2015-03-02,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-03-04,10:15,2015-03-04,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-03-05,11:15,2015-03-05,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-03-06,09:15,2015-03-06,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-03-06,12:15,2015-03-06,14:00,Gawronska Barbara,CK F1 031 sem
--NO-126,2015-03-09,13:15,2015-03-09,15:00,Askland Sigrunn,CK 48 106 sem
--EN-133 ,2015-03-12,11:15,2015-03-12,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-03-13,09:15,2015-03-13,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-03-13,12:15,2015-03-13,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-03-16,10:15,2015-03-16,12:00,Erdmann Susan,CK F1 023 sem
--OF-106,2015-03-18,10:15,2015-03-18,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-03-19,11:15,2015-03-19,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-03-20,09:15,2015-03-20,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-03-20,12:15,2015-03-20,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-03-23,10:15,2015-03-23,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-03-23,13:15,2015-03-23,15:00,Askland Sigrunn,CK 48 106 sem
--EN-127,2015-04-13,10:15,2015-04-13,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-04-13,13:15,2015-04-13,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-04-15,10:15,2015-04-15,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-04-16,11:15,2015-04-16,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-04-17,09:15,2015-04-17,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-04-17,12:15,2015-04-17,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-04-20,10:15,2015-04-20,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-04-20,13:15,2015-04-20,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-04-22,10:15,2015-04-22,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-04-23,11:15,2015-04-23,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-04-24,09:15,2015-04-24,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-04-24,12:15,2015-04-24,14:00,Gawronska Barbara,CK F1 031 sem
--EN-127,2015-04-27,10:15,2015-04-27,12:00,Erdmann Susan,CK F1 023 sem
--NO-126,2015-04-27,13:15,2015-04-27,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-04-29,10:15,2015-04-29,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-04-30,11:15,2015-04-30,13:00,Gawronska Barbara,CK F1 022 sem
--NO-126,2015-05-04,13:15,2015-05-04,15:00,Askland Sigrunn,CK 48 106 sem
--OF-106,2015-05-06,10:15,2015-05-06,12:00,Gawronska Barbara,CK F1 031 sem
--EN-133 ,2015-05-07,11:15,2015-05-07,13:00,Gawronska Barbara,CK F1 022 sem
--EN-133 ,2015-05-08,09:15,2015-05-08,11:00,Erdmann Susan,CK F1 031 sem
--OF-106,2015-05-08,12:15,2015-05-08,14:00,Gawronska Barbara,CK F1 031 sem
+"-NO-126",2015-01-05,13:15,2015-01-05,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-EN-127",2015-01-12,10:15,2015-01-12,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-01-12,13:15,2015-01-12,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-EN-133 ",2015-01-16,09:15,2015-01-16,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-01-16,12:15,2015-01-16,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-01-19,10:15,2015-01-19,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-01-19,13:15,2015-01-19,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-EN-133 uke 4",2015-01-22,11:15,2015-01-22,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 ",2015-01-23,09:15,2015-01-23,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-01-23,12:15,2015-01-23,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-01-26,10:15,2015-01-26,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-01-26,13:15,2015-01-26,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 5-9. 17",2015-01-29,09:15,2015-01-29,11:00,"Gawronska Barbara","CK F1 018 sem"
+"-EN-133 ",2015-01-29,12:15,2015-01-29,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-01-29,13:15,2015-01-29,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-01-30,09:15,2015-01-30,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-01-30,12:15,2015-01-30,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-02-02,10:15,2015-02-02,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-02-02,13:15,2015-02-02,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 5-9. 17",2015-02-05,09:15,2015-02-05,11:00,"Gawronska Barbara","CK F1 018 sem"
+"-EN-133 ",2015-02-05,12:15,2015-02-05,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-02-05,13:15,2015-02-05,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-02-06,09:15,2015-02-06,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-02-06,12:15,2015-02-06,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-02-09,10:15,2015-02-09,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-02-09,13:15,2015-02-09,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 5-9. 17",2015-02-12,09:15,2015-02-12,11:00,"Gawronska Barbara","CK F1 018 sem"
+"-EN-133 ",2015-02-12,12:15,2015-02-12,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-02-12,13:15,2015-02-12,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-02-13,09:15,2015-02-13,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-02-13,12:15,2015-02-13,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-02-16,10:15,2015-02-16,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-02-16,13:15,2015-02-16,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 5-9. 17",2015-02-19,09:15,2015-02-19,11:00,"Gawronska Barbara","CK F1 018 sem"
+"-EN-133 ",2015-02-19,12:15,2015-02-19,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-02-19,13:15,2015-02-19,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-02-20,09:15,2015-02-20,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-02-20,12:15,2015-02-20,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-02-23,10:15,2015-02-23,12:00,"Erdmann Susan","CK F1 023 sem"
+"-OF-106 uke 5-9. 17",2015-02-26,09:15,2015-02-26,11:00,"Gawronska Barbara","CK F1 018 sem"
+"-EN-133 ",2015-02-26,12:15,2015-02-26,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-02-26,13:15,2015-02-26,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-02-27,09:15,2015-02-27,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-02-27,12:15,2015-02-27,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-03-02,10:15,2015-03-02,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-03-02,13:15,2015-03-02,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 10",2015-03-05,09:15,2015-03-05,11:00,"Gawronska Barbara","CK 48 113 sem"
+"-EN-133 ",2015-03-05,12:15,2015-03-05,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-03-05,13:15,2015-03-05,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-03-06,09:15,2015-03-06,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-03-06,12:15,2015-03-06,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-NO-126",2015-03-09,13:15,2015-03-09,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 11.12.16.18.19",2015-03-12,09:15,2015-03-12,11:00,"Gawronska Barbara","CK F2 001 sem"
+"-EN-133 ",2015-03-12,12:15,2015-03-12,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-03-12,13:15,2015-03-12,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-03-13,09:15,2015-03-13,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-03-13,12:15,2015-03-13,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-03-16,10:15,2015-03-16,12:00,"Erdmann Susan","CK F1 023 sem"
+"-OF-106 uke 11.12.16.18.19",2015-03-19,09:15,2015-03-19,11:00,"Gawronska Barbara","CK F2 001 sem"
+"-EN-133 ",2015-03-19,12:15,2015-03-19,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-03-19,13:15,2015-03-19,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-03-20,09:15,2015-03-20,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-03-20,12:15,2015-03-20,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-03-23,10:15,2015-03-23,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-03-23,13:15,2015-03-23,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-EN-127",2015-04-13,10:15,2015-04-13,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-04-13,13:15,2015-04-13,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 11.12.16.18.19",2015-04-16,09:15,2015-04-16,11:00,"Gawronska Barbara","CK F2 001 sem"
+"-EN-133 ",2015-04-16,12:15,2015-04-16,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-04-16,13:15,2015-04-16,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-04-17,09:15,2015-04-17,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-04-17,12:15,2015-04-17,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-04-20,10:15,2015-04-20,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-04-20,13:15,2015-04-20,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 5-9. 17",2015-04-23,09:15,2015-04-23,11:00,"Gawronska Barbara","CK F1 018 sem"
+"-EN-133 ",2015-04-23,12:15,2015-04-23,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-04-23,13:15,2015-04-23,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-04-24,09:15,2015-04-24,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-04-24,12:15,2015-04-24,14:00,"Gawronska Barbara","CK F1 031 sem"
+"-EN-127",2015-04-27,10:15,2015-04-27,12:00,"Erdmann Susan","CK F1 023 sem"
+"-NO-126",2015-04-27,13:15,2015-04-27,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 11.12.16.18.19",2015-04-30,09:15,2015-04-30,11:00,"Gawronska Barbara","CK F2 001 sem"
+"-EN-133 ",2015-04-30,12:15,2015-04-30,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-04-30,13:15,2015-04-30,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-NO-126",2015-05-04,13:15,2015-05-04,15:00,"Askland Sigrunn","CK 48 106 sem"
+"-OF-106 uke 11.12.16.18.19",2015-05-07,09:15,2015-05-07,11:00,"Gawronska Barbara","CK F2 001 sem"
+"-EN-133 ",2015-05-07,12:15,2015-05-07,13:00,"Gawronska Barbara","CK F1 022 sem"
+"-EN-133 språklab",2015-05-07,13:15,2015-05-07,14:00,"Gawronska Barbara","CK F2 002 sprlab"
+"-EN-133 ",2015-05-08,09:15,2015-05-08,11:00,"Erdmann Susan","CK F1 031 sem"
+"-OF-106",2015-05-08,12:15,2015-05-08,14:00,"Gawronska Barbara","CK F1 031 sem"

@@ -1,47 +1,47 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
--ERN100 ons,2015-01-07,08:15,2015-01-07,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN100 fre,2015-01-09,08:15,2015-01-09,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN102 uke 2 fre,2015-01-09,10:15,2015-01-09,14:00,Tønnessen Mona Linge,CK IU 001 sem
--ERN108,2015-01-12,10:15,2015-01-12,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-01-12,13:15,2015-01-12,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-01-14,08:15,2015-01-14,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN100 fre,2015-01-16,08:15,2015-01-16,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-01-19,10:15,2015-01-19,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-01-19,13:15,2015-01-19,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-01-21,08:15,2015-01-21,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN100 fre,2015-01-23,08:15,2015-01-23,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-01-26,10:15,2015-01-26,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-01-26,13:15,2015-01-26,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-01-28,08:15,2015-01-28,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN102 uke 5 ons,2015-01-28,10:15,2015-01-28,14:00,Tønnessen Mona Linge,CK D3 054 sem
--ERN100 fre,2015-01-30,08:15,2015-01-30,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN102 uke 5 fre,2015-01-30,10:15,2015-01-30,16:00,Tønnessen Mona Linge,CK IU 069 aud
--ERN108,2015-02-02,10:15,2015-02-02,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-02-02,13:15,2015-02-02,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN102 uke 6 ons,2015-02-04,10:15,2015-02-04,13:00,Tønnessen Mona Linge,CK HU 023 sem
--ERN100 fre,2015-02-06,08:15,2015-02-06,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-02-09,10:15,2015-02-09,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-02-09,13:15,2015-02-09,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-02-11,08:15,2015-02-11,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN100 fre,2015-02-13,08:15,2015-02-13,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-02-16,10:15,2015-02-16,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-02-16,13:15,2015-02-16,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-02-18,08:15,2015-02-18,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN100 fre,2015-02-20,08:15,2015-02-20,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-03-02,10:15,2015-03-02,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-03-02,13:15,2015-03-02,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-03-04,08:15,2015-03-04,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN100 fre,2015-03-06,08:15,2015-03-06,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN102 uke 10 fre,2015-03-06,10:15,2015-03-06,13:00,Tønnessen Mona Linge,CK I1 002 sem
--ERN108,2015-03-09,10:15,2015-03-09,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-03-09,13:15,2015-03-09,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 fre,2015-03-13,08:15,2015-03-13,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-04-13,10:15,2015-04-13,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-04-13,13:15,2015-04-13,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN100 ons,2015-04-15,08:15,2015-04-15,10:00,Stea Tonje Holte,CK IU 069 aud
--ERN108,2015-04-20,10:15,2015-04-20,12:00,Helland Sissel Heidi,CK IU 001 sem
--ERN108,2015-04-20,13:15,2015-04-20,15:00,Helland Sissel Heidi,CK IU 001 sem
--ERN102 uke 18 man,2015-04-27,10:15,2015-04-27,21:00,Tønnessen Mona Linge,CK IU 001 sem
--ERN102 uke 18 tirs,2015-04-28,08:15,2015-04-28,21:00,Tønnessen Mona Linge,CK IU 001 sem
--ERN102 uke 18 ons,2015-04-29,08:15,2015-04-29,21:00,Tønnessen Mona Linge,CK IU 001 sem
--ERN102 uke 18 tors,2015-04-30,08:15,2015-04-30,21:00,Tønnessen Mona Linge,CK IU 001 sem
+"-ERN100 ons",2015-01-07,08:15,2015-01-07,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN100 fre",2015-01-09,08:15,2015-01-09,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN102 uke 2 fre",2015-01-09,10:15,2015-01-09,14:00,"Tønnessen Mona Linge","CK IU 001 sem"
+"-ERN108",2015-01-12,10:15,2015-01-12,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-01-12,13:15,2015-01-12,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-01-14,08:15,2015-01-14,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN100 fre",2015-01-16,08:15,2015-01-16,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-01-19,10:15,2015-01-19,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-01-19,13:15,2015-01-19,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-01-21,08:15,2015-01-21,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN100 fre",2015-01-23,08:15,2015-01-23,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-01-26,10:15,2015-01-26,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-01-26,13:15,2015-01-26,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-01-28,08:15,2015-01-28,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN102 uke 5 ons",2015-01-28,10:15,2015-01-28,14:00,"Tønnessen Mona Linge","CK D3 054 sem"
+"-ERN100 fre",2015-01-30,08:15,2015-01-30,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN102 uke 5 fre",2015-01-30,10:15,2015-01-30,16:00,"Tønnessen Mona Linge","CK IU 069 aud"
+"-ERN108",2015-02-02,10:15,2015-02-02,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-02-02,13:15,2015-02-02,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN102 uke 6 ons",2015-02-04,10:15,2015-02-04,13:00,"Tønnessen Mona Linge","CK HU 023 sem"
+"-ERN100 fre",2015-02-06,08:15,2015-02-06,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-02-09,10:15,2015-02-09,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-02-09,13:15,2015-02-09,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-02-11,08:15,2015-02-11,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN100 fre",2015-02-13,08:15,2015-02-13,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-02-16,10:15,2015-02-16,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-02-16,13:15,2015-02-16,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-02-18,08:15,2015-02-18,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN100 fre",2015-02-20,08:15,2015-02-20,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-03-02,10:15,2015-03-02,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-03-02,13:15,2015-03-02,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-03-04,08:15,2015-03-04,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN100 fre",2015-03-06,08:15,2015-03-06,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN102 uke 10 fre",2015-03-06,10:15,2015-03-06,13:00,"Tønnessen Mona Linge","CK I1 002 sem"
+"-ERN108",2015-03-09,10:15,2015-03-09,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-03-09,13:15,2015-03-09,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 fre",2015-03-13,08:15,2015-03-13,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-04-13,10:15,2015-04-13,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-04-13,13:15,2015-04-13,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN100 ons",2015-04-15,08:15,2015-04-15,10:00,"Stea Tonje Holte","CK IU 069 aud"
+"-ERN108",2015-04-20,10:15,2015-04-20,12:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN108",2015-04-20,13:15,2015-04-20,15:00,"Helland Sissel Heidi","CK IU 001 sem"
+"-ERN102 uke 18 man",2015-04-27,10:15,2015-04-27,21:00,"Tønnessen Mona Linge","CK IU 001 sem"
+"-ERN102 uke 18 tirs",2015-04-28,08:15,2015-04-28,21:00,"Tønnessen Mona Linge","CK IU 001 sem"
+"-ERN102 uke 18 ons",2015-04-29,08:15,2015-04-29,21:00,"Tønnessen Mona Linge","CK IU 001 sem"
+"-ERN102 uke 18 tors",2015-04-30,08:15,2015-04-30,21:00,"Tønnessen Mona Linge","CK IU 001 sem"

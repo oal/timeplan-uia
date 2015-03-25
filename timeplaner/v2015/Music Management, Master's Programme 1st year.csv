@@ -1,35 +1,36 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
-MU-401 ons uke 2 og 7,2015-01-07,09:15,2015-01-07,15:00,Hofseth Bendik. Nordgård Daniel,CK 46 134 sem
-MU-402 uke 2 og 13,2015-01-08,09:15,2015-01-08,15:00,Hofseth Bendik. Nordgård Daniel,CK 46 134 sem
-MU-401 ons,2015-01-14,09:15,2015-01-14,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-Booking/15/01/14 MU-401,2015-01-14,15:15,2015-01-14,17:00,,CK 48 007 B sem
-MU-402 tors,2015-01-15,09:15,2015-01-15,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-01-21,09:15,2015-01-21,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-01-22,09:15,2015-01-22,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-01-28,09:15,2015-01-28,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-01-29,09:15,2015-01-29,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-Booking/15/01/30 MU-401,2015-01-30,10:15,2015-01-30,16:00,,CK 48 007 A sem
-Booking/15/02/02 MU-402,2015-02-02,10:15,2015-02-02,16:00,,CK 48 007 A sem
-MU-401 ons uke 2 og 7,2015-02-11,09:15,2015-02-11,15:00,Hofseth Bendik. Nordgård Daniel,CK 46 134 sem
-MU-402 tors,2015-02-12,09:15,2015-02-12,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-02-18,09:15,2015-02-18,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-02-19,09:15,2015-02-19,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-02-25,09:15,2015-02-25,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-02-26,09:15,2015-02-26,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-03-04,09:15,2015-03-04,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-03-05,09:15,2015-03-05,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-402 tors,2015-03-12,09:15,2015-03-12,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-03-18,09:15,2015-03-18,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-03-19,09:15,2015-03-19,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-03-25,09:15,2015-03-25,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 uke 2 og 13,2015-03-26,09:15,2015-03-26,15:00,Hofseth Bendik. Nordgård Daniel,CK 46 134 sem
-MU-401 ons,2015-04-08,09:15,2015-04-08,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 uke 15,2015-04-09,09:15,2015-04-09,15:00,Hofseth Bendik. Nordgård Daniel,CK 46 135 sem
-MU-401 ons,2015-04-15,09:15,2015-04-15,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-04-16,09:15,2015-04-16,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-04-22,09:15,2015-04-22,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-04-23,09:15,2015-04-23,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-04-29,09:15,2015-04-29,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-04-30,09:15,2015-04-30,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
-MU-401 ons,2015-05-06,09:15,2015-05-06,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 B sem
-MU-402 tors,2015-05-07,09:15,2015-05-07,15:00,Hofseth Bendik. Nordgård Daniel,CK 48 007 A sem
+"MU-401 ons uke 2 og 7",2015-01-07,09:15,2015-01-07,15:00,"Hofseth Bendik, Nordgård Daniel","CK 46 134 sem"
+"MU-402 uke 2 og 13",2015-01-08,09:15,2015-01-08,15:00,"Hofseth Bendik, Nordgård Daniel","CK 46 134 sem"
+"MU-401 ons",2015-01-14,09:15,2015-01-14,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"Booking/15/01/14 MU-401",2015-01-14,15:15,2015-01-14,17:00,"","CK 48 007 B sem"
+"MU-402 tors",2015-01-15,09:15,2015-01-15,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-01-21,09:15,2015-01-21,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-01-22,09:15,2015-01-22,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-01-28,09:15,2015-01-28,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-01-29,09:15,2015-01-29,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"Booking/15/01/30 MU-401",2015-01-30,10:15,2015-01-30,16:00,"","CK 48 007 A sem"
+"Booking/15/02/02 MU-402",2015-02-02,10:15,2015-02-02,16:00,"","CK 48 007 A sem"
+"Booking/15/02/02 MU-402",2015-02-02,10:15,2015-02-02,16:00,"","CK 48 007 B sem"
+"MU-401 ons uke 2 og 7",2015-02-11,09:15,2015-02-11,15:00,"Hofseth Bendik, Nordgård Daniel","CK 46 134 sem"
+"MU-402 tors",2015-02-12,09:15,2015-02-12,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-02-18,09:15,2015-02-18,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-02-19,09:15,2015-02-19,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-02-25,09:15,2015-02-25,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-02-26,09:15,2015-02-26,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-03-04,09:15,2015-03-04,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-03-05,09:15,2015-03-05,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-402 tors",2015-03-12,09:15,2015-03-12,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-03-18,09:15,2015-03-18,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-03-19,09:15,2015-03-19,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-03-25,09:15,2015-03-25,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 uke 2 og 13",2015-03-26,09:15,2015-03-26,15:00,"Hofseth Bendik, Nordgård Daniel","CK 46 134 sem"
+"MU-401 ons",2015-04-08,09:15,2015-04-08,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 uke 15",2015-04-09,09:15,2015-04-09,15:00,"Hofseth Bendik, Nordgård Daniel","CK 46 135 sem"
+"MU-401 ons",2015-04-15,09:15,2015-04-15,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-04-16,09:15,2015-04-16,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-04-22,09:15,2015-04-22,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-04-23,09:15,2015-04-23,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-04-29,09:15,2015-04-29,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-04-30,09:15,2015-04-30,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"
+"MU-401 ons",2015-05-06,09:15,2015-05-06,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 B sem"
+"MU-402 tors",2015-05-07,09:15,2015-05-07,15:00,"Hofseth Bendik, Nordgård Daniel","CK 48 007 A sem"

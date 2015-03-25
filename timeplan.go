@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/PuerkitoBio/goquery"
 	"io"
 	"io/ioutil"
 	"net/http"
@@ -11,6 +10,8 @@ import (
 	"os"
 	"strings"
 	"time"
+
+	"github.com/PuerkitoBio/goquery"
 )
 
 var client *http.Client
@@ -128,11 +129,11 @@ func generateCSV(r io.Reader) error {
 				from, _ = time.Parse("02 Jan 2006 15.04", dateString+" "+times[0])
 				to, _ = time.Parse("02 Jan 2006 15.04", dateString+" "+times[1])
 			case 3:
-				subject = s.Text()
+				subject = `"` + strings.Replace(s.Text(), `"`, `""`, -1) + `"`
 			case 4:
-				location = s.Text()
+				location = `"` + strings.Replace(s.Text(), `"`, `""`, -1) + `"`
 			case 5:
-				description = s.Text()
+				description = `"` + strings.Replace(s.Text(), `"`, `""`, -1) + `"`
 			}
 		})
 
@@ -142,8 +143,8 @@ func generateCSV(r io.Reader) error {
 			from.Format("15:04"),
 			to.Format("2006-01-02"),
 			to.Format("15:04"),
-			strings.Replace(description, ",", ".", -1),
-			strings.Replace(location, ",", ".", -1),
+			description,
+			location,
 		}
 
 		lines = append(lines, strings.Join(line, ","))
