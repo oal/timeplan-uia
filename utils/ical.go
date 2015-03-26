@@ -55,8 +55,8 @@ func ToICal(path string) (string, error) {
 		cal = append(cal, []string{
 			"BEGIN:VEVENT",
 			fmt.Sprintf("UID:%v", uid),
-			fmt.Sprintf("DTSTART:%v00Z", dateStart.Format("20060102T1504")),
-			fmt.Sprintf("DTEND:%v00Z", dateEnd.Format("20060102T1504")),
+			fmt.Sprintf("DTSTART:%v00", dateStart.Format("20060102T1504")),
+			fmt.Sprintf("DTEND:%v00", dateEnd.Format("20060102T1504")),
 			fmt.Sprintf("SUMMARY:%v", summary),
 			fmt.Sprintf("DESCRIPTION:%v", description),
 			fmt.Sprintf("LOCATION:%v", location),
