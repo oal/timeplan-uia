@@ -16,8 +16,8 @@ import (
 
 var client *http.Client
 
-const URL = "http://timeplan.uia.no/swsuiav/public/no/default.aspx"
-const FOLDER = "timeplaner/v2015"
+const URL = "http://timeplan.uia.no/swsuiah/public/no/default.aspx"
+const FOLDER = "timeplaner/h2015"
 
 type Department struct {
 	Name string
@@ -77,19 +77,19 @@ func loadTimetable(doc *goquery.Document, department *Department) error {
 	radioType, _ := doc.Find("#RadioType_0").Attr("value")
 
 	data := url.Values{
-		"__VIEWSTATE":          []string{viewstate},
-		"__VIEWSTATEGENERATOR": []string{viewstateGen},
-		"__EVENTVALIDATION":    []string{eventValidation},
-		"tLinkType":            []string{linkType},
-		"dlObject":             []string{department.Code},
-		"lbWeeks":              []string{lbWeeks},
-		"lbDays":               []string{lbDays},
-		"RadioType":            []string{radioType},
-		"bGetTimetable":        []string{"Vis+timeplan"},
-		"tWildcard":            []string{""},
-		"__EVENTTARGET":        []string{""},
-		"__EVENTARGUMENT":      []string{""},
-		"__LASTFOCUS":          []string{""},
+		"__VIEWSTATE":          {viewstate},
+		"__VIEWSTATEGENERATOR": {viewstateGen},
+		"__EVENTVALIDATION":    {eventValidation},
+		"tLinkType":            {linkType},
+		"dlObject":             {department.Code},
+		"lbWeeks":              {lbWeeks},
+		"lbDays":               {lbDays},
+		"RadioType":            {radioType},
+		"bGetTimetable":        {"Vis+timeplan"},
+		"tWildcard":            {""},
+		"__EVENTTARGET":        {""},
+		"__EVENTARGUMENT":      {""},
+		"__LASTFOCUS":          {""},
 	}
 
 	resp, err := client.PostForm(URL, data)

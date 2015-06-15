@@ -69,7 +69,7 @@ func (c *Context) ICal(w web.ResponseWriter, r *web.Request) {
 }
 
 func startServer() {
-	files, err := ioutil.ReadDir("timeplaner/v2015")
+	files, err := ioutil.ReadDir("timeplaner/h2015")
 	if err != nil {
 		panic(err)
 	}
