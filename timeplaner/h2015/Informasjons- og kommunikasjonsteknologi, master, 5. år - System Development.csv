@@ -1,5 +1,4 @@
 Subject,Start Date,Start Time,End Date,End Time,Description,Location
-"IKT415-G/Forel/øv/02",2015-08-11,12:15,2015-08-11,16:00,"Prinz, Andreas","CG C4 093 sem"
 "IKT415-G/Forel/øv/01",2015-08-17,12:15,2015-08-17,16:00,"Prinz, Andreas","CG D3 053 sem"
 "IKT415-G/Forel/øv/02",2015-08-18,12:15,2015-08-18,16:00,"Prinz, Andreas","CG C4 093 sem"
 "IKT428-G/forel/01",2015-08-19,12:15,2015-08-19,15:00,"Li, Frank Young","CG A2 123 sem"
@@ -58,6 +57,7 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 "IKT431-G/Forelesning/01",2015-09-25,08:15,2015-09-25,11:00,"Isabwe, Ghislain Maurice Norbert","CG D3 052 sem"
 "IKT431-G/Øving/01",2015-09-25,12:15,2015-09-25,15:00,"Isabwe, Ghislain Maurice Norbert","CG D3 052 sem"
 "IKT432-G/Forelesning/01",2015-09-29,09:15,2015-09-29,12:00,"Lozano, Baltasar Beferull","CG C4 093 sem"
+"IKT428-G/øving/",2015-09-30,15:15,2015-09-30,18:00,"Li, Frank Young","CG A2 123 sem"
 "IKT511-G/Forel/øving",2015-10-01,12:15,2015-10-01,16:00,"Bouhmala, Noureddine","CG D3 052 sem"
 "IKT431-G/Forelesning/01",2015-10-02,08:15,2015-10-02,11:00,"Isabwe, Ghislain Maurice Norbert","CG D3 052 sem"
 "IKT431-G/Øving/01",2015-10-02,12:15,2015-10-02,15:00,"Isabwe, Ghislain Maurice Norbert","CG D3 052 sem"
@@ -69,6 +69,7 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 "IKT440-G/IKT428/øvingl/",2015-10-07,15:15,2015-10-07,18:00,"Li, Frank Young","CG A2 123 sem"
 "IKT432-G/Forelesning/01",2015-10-13,09:15,2015-10-13,12:00,"Lozano, Baltasar Beferull","CG C4 093 sem"
 "IKT416-G/Forel/Uke 41-42",2015-10-13,16:15,2015-10-13,18:00,"Borhani, Alireza, Comes, Martina, Radianti, Jaziar, Isabwe, Ghislain Maurice Norbert","CG A2 084 aud"
+"IKT428-G/øving/",2015-10-14,15:15,2015-10-14,18:00,"Li, Frank Young","CG A2 123 sem"
 "IKT431-G/Forelesning/01",2015-10-16,08:15,2015-10-16,11:00,"Isabwe, Ghislain Maurice Norbert","CG D3 052 sem"
 "IKT431-G/Øving/01",2015-10-16,12:15,2015-10-16,15:00,"Isabwe, Ghislain Maurice Norbert","CG D3 052 sem"
 "IKT432-G/Forelesning/01",2015-10-20,09:15,2015-10-20,12:00,"Lozano, Baltasar Beferull","CG C4 093 sem"

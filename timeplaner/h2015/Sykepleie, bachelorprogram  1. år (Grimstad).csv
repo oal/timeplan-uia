@@ -8,7 +8,7 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 "SY-110-G 17.08",2015-08-17,08:15,2015-08-17,12:00,"Brodtkorb, Kari","CG A2 135 aud"
 "SYP110-G 17.08",2015-08-17,12:15,2015-08-17,14:00,"Ekra Else Mari Ruberg","CG A2 135 aud"
 "SY-110-G 17.08 grom",2015-08-17,14:15,2015-08-17,15:00,"","CG A3 099, CG A3 026, CG C3 081, CG C3 091, CG C3 070 nat.vit, CG A2 043, CG A2 026, CG A2 020, CG A2 142, CG A2 143, CG A2 145"
-"NV-110-G 18.08",2015-08-18,12:15,2015-08-18,16:00,"Vik, Frøydis","CG A2 135 aud"
+"NV-110-G 18.08",2015-08-18,12:15,2015-08-18,16:00,"Vik, Frøydis","CG x Auditorium FoU-bygget"
 "SY-110-G 19.08 grom",2015-08-19,08:15,2015-08-19,12:00,"","CG A3 099, CG A3 026, CG C3 081, CG C3 091, CG C3 070 nat.vit, CG A2 043, CG A2 026, CG A2 020, CG A2 142, CG A2 143, CG A2 145"
 "SYP110-G 20.08 klasse A og B",2015-08-20,08:15,2015-08-20,12:00,"","CG C3 022 ulab, CG C3 072 aud, CG C3 071 nat.vit, CG C3 070 nat.vit, CG C3 034 skill, CG C3 042 isolat, CG C3 024 klinikk, CG C3 050 kjøkken, CG C3 020 ulab, CG C3 021 ulab, CG C3 033 vaktrom"
 "SYP110-G 20.08 klasse C og D",2015-08-20,12:15,2015-08-20,16:00,"","CG C3 022 ulab, CG C3 072 aud, CG C3 071 nat.vit, CG C3 070 nat.vit, CG C3 034 skill, CG C3 042 isolat, CG C3 024 klinikk, CG C3 050 kjøkken, CG C3 020 ulab, CG C3 021 ulab, CG C3 033 vaktrom"
@@ -84,3 +84,4 @@ Subject,Start Date,Start Time,End Date,End Time,Description,Location
 "SYP110-G 24.11 ",2015-11-24,08:15,2015-11-24,16:00,"","CG C3 022 ulab, CG C3 072 aud, CG C3 071 nat.vit, CG C3 070 nat.vit, CG C3 034 skill, CG C3 042 isolat, CG C3 024 klinikk, CG C3 050 kjøkken, CG C3 020 ulab, CG C3 021 ulab, CG C3 033 vaktrom"
 "SYP110-G 25.11 ",2015-11-25,08:15,2015-11-25,16:00,"","CG C3 022 ulab, CG C3 072 aud, CG C3 071 nat.vit, CG C3 070 nat.vit, CG C3 034 skill, CG C3 042 isolat, CG C3 024 klinikk, CG C3 050 kjøkken, CG C3 020 ulab, CG C3 021 ulab, CG C3 033 vaktrom"
 "SYP110-G 03.12",2015-12-03,08:15,2015-12-03,16:00,"","CG C3 022 ulab, CG C3 072 aud, CG C3 071 nat.vit, CG C3 070 nat.vit, CG C3 034 skill, CG C3 042 isolat, CG C3 024 klinikk, CG C3 050 kjøkken, CG C3 020 ulab, CG C3 021 ulab, CG C3 033 vaktrom"
+"SYP110-G 11.12 ",2015-12-07,16:15,2015-12-07,00:00,"","CG C3 024 klinikk"
