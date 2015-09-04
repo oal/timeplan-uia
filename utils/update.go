@@ -170,7 +170,7 @@ func generateCSV(r io.Reader) (string, string, error) {
 		return "", "", nil
 	}
 
-	title := doc.Find("p.title i").Text()
+	title := strings.Replace(doc.Find("p.title i").Text(), "/", "-", -1)
 	csv := strings.Join(lines, "\r\n")
 	return title, csv, nil
 }
