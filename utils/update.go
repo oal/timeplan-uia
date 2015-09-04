@@ -29,11 +29,6 @@ var departments = []*Department{}
 func UpdateTimetables() {
 	os.MkdirAll(FOLDER, 0777)
 
-	jar, _ := cookiejar.New(nil)
-	client = &http.Client{
-		Jar: jar,
-	}
-
 	doc, err := loadDepartments()
 	if err != nil {
 		panic(err)
@@ -45,6 +40,24 @@ func UpdateTimetables() {
 			panic(err)
 		}
 		time.Sleep(1 * time.Second) // Give the server some room to breathe
+	}
+}
+
+// UpdateSingleURL allows users to pass in a URL to a timetable on UiA's website and export only this file to .csv.
+func UpdateSingleURL(url string) {
+	resp, err := client.Get(url)
+	if err != nil {
+		panic(err)
+	}
+
+	title, csv, err := generateCSV(resp.Body)
+	if err != nil {
+		panic(err)
+	}
+
+	err = ioutil.WriteFile(title+".csv", []byte(csv), 0664)
+	if err != nil {
+		panic(err)
 	}
 }
 
@@ -97,14 +110,17 @@ func loadTimetable(doc *goquery.Document, department *Department) error {
 		return err
 	}
 
-	generateCSV(resp.Body)
-	return nil
+	title, csv, err := generateCSV(resp.Body)
+	if err != nil {
+		panic(err)
+	}
+	return writeTimetable(title, csv)
 }
 
-func generateCSV(r io.Reader) error {
+func generateCSV(r io.Reader) (string, string, error) {
 	doc, err := goquery.NewDocumentFromReader(r)
 	if err != nil {
-		return err
+		return "", "", err
 	}
 
 	lines := []string{"Subject,Start Date,Start Time,End Date,End Time,Description,Location"}
@@ -151,16 +167,27 @@ func generateCSV(r io.Reader) error {
 	})
 
 	if len(lines) < 5 {
-		return nil
+		return "", "", nil
 	}
 
-	title := strings.Replace(doc.Find("p.title i").Text(), "/", "-", -1)
-	csv := []byte(strings.Join(lines, "\r\n"))
-	err = ioutil.WriteFile(FOLDER+"/"+title+".csv", csv, 0664)
+	title := doc.Find("p.title i").Text()
+	csv := strings.Join(lines, "\r\n")
+	return title, csv, nil
+}
+
+func writeTimetable(title, csv string) error {
+	err := ioutil.WriteFile(FOLDER+"/"+title+".csv", []byte(csv), 0664)
 	if err != nil {
 		return err
 	}
 
 	fmt.Println("Created timetable for", title)
 	return nil
+}
+
+func init() {
+	jar, _ := cookiejar.New(nil)
+	client = &http.Client{
+		Jar: jar,
+	}
 }
