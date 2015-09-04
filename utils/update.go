@@ -154,7 +154,7 @@ func generateCSV(r io.Reader) error {
 		return nil
 	}
 
-	title := doc.Find("p.title i").Text()
+	title := strings.Replace(doc.Find("p.title i").Text(), "/", "-", -1)
 	csv := []byte(strings.Join(lines, "\r\n"))
 	err = ioutil.WriteFile(FOLDER+"/"+title+".csv", csv, 0664)
 	if err != nil {
