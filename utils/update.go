@@ -16,8 +16,8 @@ import (
 
 var client *http.Client
 
-const URL = "http://timeplan.uia.no/swsuiah/public/no/default.aspx"
-const FOLDER = "timeplaner/h2015"
+const URL = "http://timeplan.uia.no/swsuiav/public/no/default.aspx"
+const FOLDER = "timeplaner/v2016"
 
 type Department struct {
 	Name string
@@ -139,7 +139,7 @@ func generateCSV(r io.Reader) (string, string, error) {
 		cells.Each(func(j int, s *goquery.Selection) {
 			switch j {
 			case 1:
-				dateString = s.Text() + " 2015"
+				dateString = s.Text() + " 2016"
 			case 2:
 				times := strings.Split(strings.TrimSpace(s.Text()), "-")
 				from, _ = time.Parse("02 Jan 2006 15.04", dateString+" "+times[0])
