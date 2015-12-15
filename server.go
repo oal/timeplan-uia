@@ -84,6 +84,7 @@ func startServer() {
 		Middleware(web.LoggerMiddleware).
 		Get("/", (*Context).Index).
 		Get("/csv/:semester/:file", (*Context).CSV).
-		Get("/ical/:semester/:file", (*Context).ICal)
+		Get("/ical/:semester/:file", (*Context).ICal).
+		Middleware(web.StaticMiddleware("static"))
 	http.ListenAndServe("0.0.0.0:15103", router) // Start the server!
 }
