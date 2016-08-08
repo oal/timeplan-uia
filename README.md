@@ -1,4 +1,11 @@
 # Timeplaner for Universitetet i Agder
+
+**Dette er koden for en eldre versjon av tjenesten. Du finner den nye her: http://timeplaner.olav.it/ (og koden her: https://github.com/oal/timeplan-uia-2)**
+
+---
+
+### UTDATERT:
+
 Dette er et program for å generere .csv-filer fra timeplansystemet til UiA. Disse filene kan så importeres direkte til Google Calendar, og synkroniseres mot din smarttelefon eller PC.
 
 Ferdig genererte filer ligger i "timeplaner"-mappen.
